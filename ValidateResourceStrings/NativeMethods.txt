@@ -1,0 +1,7 @@
+﻿LoadLibraryEx
+EnumResourceNames
+RT_STRING
+FindResource
+LoadResource
+SizeofResource
+LockResource

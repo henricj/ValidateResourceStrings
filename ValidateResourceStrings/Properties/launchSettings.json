@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ValidateResourceStrings": {
+      "commandName": "Project",
+      "commandLineArgs": "**\\*.exe **\\*.dll",
+      "workingDirectory": "c:\\src\\crypto\\pwsafe\\pwsafe\\build\\"
+    }
+  }
+}
